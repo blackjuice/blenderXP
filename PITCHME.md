@@ -1,8 +1,8 @@
 ![LOGO](s2-2017/img/blender-socket.png)
 
-#### BLENDER
+#### Hello World!
 <br>
-<span style="color:gray">Lucas Sung Jun Hong</span>
+<span style="color:gray">Lucas Sung Jun <span style="color: #e49436; text-transform: none">Hong</span></span>
 <br>
 <span style="color:gray">2017</span>
 
@@ -81,11 +81,9 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ---
 
-### Slide Test:
+### FOSS
 
-> this is a quote
+<br>
+<span style="color:gray; font-size:0.6em;">Free and open-source software</span>
 
-| column 1 | column 2 |
-|:---------|:---------|
-| alpha    | beta     |
-
+> ...anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software.

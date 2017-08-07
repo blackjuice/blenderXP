@@ -41,8 +41,9 @@ Vou começar com uma curta introdução sobre o Blender. Ele é um programa 3D c
 [slide 1]
 
     [slide 1]
-    Blender?
-      Software 3D Open Source
+    Blender
+        Software 3D Open Source
+        >  ... free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games.
 
 Assumindo que nem todos sabem o que Open Source significa, totalmente não retirado da Wikipedia, [slide 2] Open Source é um certificado com os seguintes critérios:
 
@@ -70,8 +71,6 @@ Assumindo que nem todos sabem o que Open Source significa, totalmente não retir
 Eu tentei entender cada um dos critérios, mas sinceramente, o português é difícil. Até em inglês não entendi. Mas se for para apontar os pontos mais importantes aqui, eu diria que é importante saber que 
 
 
-From wikipedia:
->  ... free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games.
 
 
 
