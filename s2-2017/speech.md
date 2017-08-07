@@ -1,11 +1,17 @@
+
+presentation link:
+
+https://gitpitch.com/blackjuice/blenderXP
+
+
 # Title
 
 Conteúdo:
-    - INTRO: - 2min
+    - INTRO: - **2min**
         - today's content
         - Blender: FOSS
-    - Images examples of commercial use - 2min
-    - Using Blender - 90% - 135min
+    - Images examples of commercial use - **2min**
+    - Using Blender - **90% - 135min**
         - Environment navigation: camera/quad view
         - Modeling:
             - Object Mode
@@ -25,8 +31,8 @@ Conteúdo:
         - Render:
             - Cycles
             - EEVEE
-    - Helps - 1min
-    - Doubts - 10min
+    - Helps - **1min**
+    - Doubts - **10min**
 
 ## Intro
 

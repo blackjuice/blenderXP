@@ -1,12 +1,10 @@
-![LOGO](https://d1z75bzl1vljy2.cloudfront.net/img/gp-logo.png)
+![LOGO](s2-2017/img/blender-socket.png)
 
 #### BLENDER
 <br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
+<span style="color:gray">Lucas Sung Jun Hong</span>
 <br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab, Bitbucket, Gitea, Gogs, and GitBucket</span>
+<span style="color:gray">2017</span>
 
 ---
 
@@ -80,3 +78,14 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ### Go for it.
 ### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+
+---
+
+### Slide Test:
+
+> this is a quote
+
+| column 1 | column 2 |
+|:---------|:---------|
+| alpha    | beta     |
+
