@@ -1,5 +1,33 @@
 # Title
 
+Conteúdo:
+    - INTRO: - 2min
+        - today's content
+        - Blender: FOSS
+    - Images examples of commercial use - 2min
+    - Using Blender - 90% - 135min
+        - Environment navigation: camera/quad view
+        - Modeling:
+            - Object Mode
+            - Edit Mode
+            - Modifiers
+        - Materials/Texturing:
+            - Materials
+            - Textures
+            - Nodes
+        - Rigging:
+            - Bones
+        - Animation:
+            - Camera movement
+            - Physics
+        - Scripting:
+            - Addons
+        - Render:
+            - Cycles
+            - EEVEE
+    - Helps - 1min
+    - Doubts - 10min
+
 ## Intro
 
 Vou começar com uma curta introdução sobre o Blender. Ele é um programa 3D com código aberto. 
@@ -29,6 +57,19 @@ Assumindo que nem todos sabem o que Open Source significa, totalmente não retir
     - Distribuição da Licença: Os direitos associados ao programa devem ser aplicáveis para todos aqueles cujo programa é redistribuído, sem a necessidade da execução de uma licença adicional para estas partes.
     - Licença não específica a um produto: Os direitos associados ao programa não devem depender que o programa seja parte de uma distribuição específica de programas. Se o programa é extraído desta distribuição e usado ou distribuído dentro dos termos da licença do programa, todas as partes para quem o programa é redistribuído devem ter os mesmos direitos que aqueles que são garantidos em conjunção com a distribuição de programas original.
     - Licença não restrinja outros programas
-A licença não pode colocar restrições em outros programas que são distribuídos juntos com o programa licenciado. Isto é, a licença não pode especificar que todos os programas distribuídos na mesma mídia de armazenamento sejam programas de código aberto.
-Licença neutra em relação a tecnologia
-Nenhuma cláusula da licença pode estabelecer uma tecnologia individual, estilo ou interface a ser aplicada no programa.
+    A licença não pode colocar restrições em outros programas que são distribuídos juntos com o programa licenciado. Isto é, a licença não pode especificar que todos os programas distribuídos na mesma mídia de armazenamento sejam programas de código aberto.
+    Licença neutra em relação a tecnologia
+    Nenhuma cláusula da licença pode estabelecer uma tecnologia individual, estilo ou interface a ser aplicada no programa.
+
+Eu tentei entender cada um dos critérios, mas sinceramente, o português é difícil. Até em inglês não entendi. Mas se for para apontar os pontos mais importantes aqui, eu diria que é importante saber que 
+
+
+From wikipedia:
+>  ... free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games.
+
+
+
+
+
+
+
