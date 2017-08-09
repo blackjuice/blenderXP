@@ -1,6 +1,6 @@
 ![LOGO](s2-2017/img/blender-socket.png)
 
-#### Hello World!
+#### Hello <span style="color: #e49436; text-transform: none">World</span>!
 <br>
 <span style="color:gray">Lucas Sung Jun <span style="color: #e49436; text-transform: none">Hong</span></span>
 <br>
@@ -81,9 +81,12 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ---
 
-### FOSS
+### <span style="color: #e49436; text-transform: none">FOSS</span>
 
-<br>
-<span style="color:gray; font-size:0.6em;">Free and open-source software</span>
+#### <span style="color:gray; font-size:0.6em;">Free and Open-Source Software</span>
 
 > ...anyone is freely licensed to use, copy, study, and change the software in any way, and the source code is openly shared so that people are encouraged to voluntarily improve the design of the software.
+
+---
+
+![example](s2-2017/img/example.gif)
