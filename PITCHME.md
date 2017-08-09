@@ -89,4 +89,10 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ---
 
+local:
+
 ![example](s2-2017/img/example.gif)
+
+public:
+
+![example](https://media3.giphy.com/media/3oriNWIJQ1EK6GQ9gY/giphy.gif)
