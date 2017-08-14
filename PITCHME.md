@@ -59,7 +59,7 @@
 
 ---
 
-### EXEMPLOS
+### EEVEE
 
 - ### <span style="color: #e49436; text-transform: none">E</span>xtra
 - ### <span style="color: #e49436; text-transform: none">E</span>asy
@@ -105,7 +105,7 @@
 
 ### Addon: HardOps by masterxeon1001
 
-![](https://masterxeon1001.files.wordpress.com/2016/09/machin3.png?w=809)
+<img src="https://masterxeon1001.files.wordpress.com/2016/09/machin3.png?w=809" width="100">
 
 *MACHINƎ*
 
@@ -113,7 +113,7 @@
 
 ### Addon: HardOps by masterxeon1001
 
-![](https://masterxeon1001.files.wordpress.com/2016/09/ivanhsgun.png?w=809)
+<img src="https://masterxeon1001.files.wordpress.com/2016/09/ivanhsgun.png?w=809" width="100">
 
 *Moth3r*
 
@@ -135,6 +135,8 @@
 - Scripting
 - Render: cycles
 
+---
+
 ### <span style="color: #e49436; text-transform: none">Help guide</span>
 
 - Youtube: 
@@ -142,6 +144,8 @@
 	- CG Cookie Blender: Getting Started with Blender
 	- Blender Guru
 - Blender.org/support/tutorials
+
+---
 
 ### That's all, folks
 
