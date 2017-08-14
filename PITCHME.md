@@ -8,76 +8,10 @@
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+### <span style="color: #e49436; text-transform: none">W</span>ORKSHOP
 
----
-
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
-
----
-
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
-
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
-
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
-
----
-
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
-
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab, Bitbucket, Gitea, Gogs, or GitBucket.
-
----
-
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
-
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
-
-<br>
-
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
-
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
-
----
-
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
-
-- GitHub Flavored Markdown +
-- Code Presenting for Blocks, Files, and GISTs
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
-
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+- 1h30m
+- Expositivo
 
 ---
 
@@ -89,12 +23,106 @@ Instantly use your GitPitch slideshow URL to promote, pitch or present absolutel
 
 ---
 
-local:
+### <span style="color: #e49436; text-transform: none">FOSS</span>
 
-![example](s2-2017/img/example.gif)
+#### <span style="color:gray; font-size:0.6em;">Free and Open-Source Software</span>
+
+- 3D modeling;
+- rigging; 
+- animation; 
+- simulation; 
+- rendering; 
+- motion tracking; 
+- game creation.
 
 ---
 
-public:
+### <span style="color: #e49436; text-transform: none">FOSS</span>
 
-![example](https://media3.giphy.com/media/3oriNWIJQ1EK6GQ9gY/giphy.gif)
+#### <span style="color:gray; font-size:0.6em;">Free and Open-Source Software</span>
+
+- studios
+- artistas: profissionais e hobbyists;
+- cientistas;
+- estudantes; 
+- animators; 
+- modders; 
+- etc
+
+---
+
+### EXEMPLOS
+
+![](https://i.ytimg.com/vi/eAVjwXEjDdo/maxresdefault.jpg)
+
+https://cgmasters.net/free-tutorials/blender-tutorial-eevee-getting-started/
+
+- ### <span style="color: #e49436; text-transform: none">E</span>xtra
+- ### <span style="color: #e49436; text-transform: none">E</span>asy
+- ### <span style="color: #e49436; text-transform: none">V</span>irtual
+- ### <span style="color: #e49436; text-transform: none">E</span>nvironment
+- ### <span style="color: #e49436; text-transform: none">E</span>ngine
+
+---
+
+### EXEMPLOS
+
+![](https://code.blender.org/wp-content/uploads/2017/03/sci-fi-1024x580.jpg)
+
+*Sci-fi armor by Andy Goralczyk*
+
+---
+
+### EXEMPLOS
+
+![](https://code.blender.org/wp-content/uploads/2017/03/glossy-1024x429.jpg)
+
+*Agent 327 Barbershop project by Blender Institute*
+
+---
+
+### Blender Guru
+
+![](https://d1231c29xbpffx.cloudfront.net/store/product/151066/image/xlarge-167ac2d373b1d787ca8730e21fa6b9c9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAITK2SDMAUIGKRQTA%2F20170814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170814T113320Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=0ab5e5fe16e9628bcfc6b425aa760cf3d1dd89a2d0b3b146228b2ce3c7504d09)
+
+![](https://d1231c29xbpffx.cloudfront.net/store/productimage/7561/image/largef-cb861eafe6a5852fd387f99e3cdae36a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAITK2SDMAUIGKRQTA%2F20170814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170814T113320Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d2376185b12bf811d036ac91130bb90655a7079126a6b9f1f40805a7870135c1)
+
+![](https://d1231c29xbpffx.cloudfront.net/store/product/105336/image/xlarge-e6a49bb5b97521edc8782385c2a461a8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAITK2SDMAUIGKRQTA%2F20170814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20170814T113321Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=64642d74f92ebceddbb1bf06c6dc4d58504322c5bb7d14ec766c164aa23bf66b)
+
+---
+
+### Addon: HardOps by masterxeon1001
+
+![](https://masterxeon1001.files.wordpress.com/2016/09/machin3.png?w=809)
+
+*MACHINƎ*
+
+![](https://masterxeon1001.files.wordpress.com/2016/09/ivanhsgun.png?w=809)
+
+*Moth3r*
+
+![](https://masterxeon1001.files.wordpress.com/2016/02/2016-02-27_04-05-12.gif?w=809)
+
+---
+
+### <span style="color: #e49436; text-transform: none">Conteúdo:</span>
+
+- Navegação: camera/quadview
+- Modelação: object/edit mode & modifiers
+- Materials/Textures and Nodes
+- Rigging
+- Animação: camera movement and physics
+- Scripting
+- Render: cycles
+
+### <span style="color: #e49436; text-transform: none">Help guide</span>
+
+- Youtube: 
+	- masterxeon1001: Basics Recap
+	- CG Cookie Blender: Getting Started with Blender
+	- Blender Guru
+- Blender.org/support/tutorials
+
+### That's all, folks
+
+github.com/<span style="color: #e49436; text-transform: none">blackjuice/blenderXP</span>
