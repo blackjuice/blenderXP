@@ -51,9 +51,7 @@
 
 ---
 
-### EXEMPLOS
-
-![](s2-2017/img/Blenderworkshop_lowres.jpg)
+### <span style="color: #e49436; text-transform: none">EXEMPLOS</span>
 
 ---
 
