@@ -105,7 +105,7 @@
 
 ### Addon: HardOps by masterxeon1001
 
-<img src="https://masterxeon1001.files.wordpress.com/2016/09/machin3.png?w=809" width="100">
+<img src="https://masterxeon1001.files.wordpress.com/2016/09/machin3.png?w=809" width="500">
 
 *MACHINƎ*
 
@@ -113,7 +113,7 @@
 
 ### Addon: HardOps by masterxeon1001
 
-<img src="https://masterxeon1001.files.wordpress.com/2016/09/ivanhsgun.png?w=809" width="100">
+<img src="https://masterxeon1001.files.wordpress.com/2016/09/ivanhsgun.png?w=809" width="500">
 
 *Moth3r*
 
@@ -121,8 +121,7 @@
 
 ### Addon: HardOps by masterxeon1001
 
-![](https://masterxeon1001.files.wordpress.com/2016/02/2016-02-27_04-05-12.gif?w=809)
-
+<img src="https://masterxeon1001.files.wordpress.com/2016/02/2016-02-27_04-05-12.gif?w=809" width="500">
 ---
 
 ### <span style="color: #e49436; text-transform: none">Conteúdo:</span>
