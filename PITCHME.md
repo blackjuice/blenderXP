@@ -57,9 +57,7 @@
 
 ### EXEMPLOS
 
-![](https://i.ytimg.com/vi/eAVjwXEjDdo/maxresdefault.jpg)
-
-*https://cgmasters.net/free-tutorials/blender-tutorial-eevee-getting-started/*
+![https://cgmasters.net/free-tutorials/blender-tutorial-eevee-getting-started/](https://i.ytimg.com/vi/eAVjwXEjDdo/maxresdefault.jpg)
 
 ---
 
