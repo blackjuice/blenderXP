@@ -105,7 +105,7 @@
 
 ### Addon: HardOps by masterxeon1001
 
-<img src="https://masterxeon1001.files.wordpress.com/2016/09/machin3.png?w=809" width="500">
+<img src="https://masterxeon1001.files.wordpress.com/2016/09/machin3.png?w=809" width="600">
 
 *MACHINƎ*
 
@@ -113,7 +113,7 @@
 
 ### Addon: HardOps by masterxeon1001
 
-<img src="https://masterxeon1001.files.wordpress.com/2016/09/ivanhsgun.png?w=809" width="500">
+<img src="https://masterxeon1001.files.wordpress.com/2016/09/ivanhsgun.png?w=809" width="300">
 
 *Moth3r*
 
