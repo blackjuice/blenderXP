@@ -14,6 +14,11 @@ GitPitch: https://gitpitch.com/blackjuice/blenderXP/gitpitch
 
 ## Contents
 
+Interface:
+
+* Set themes
+* Set startup
+
 Modeling:
 
 * Navigation: camera/quad view
