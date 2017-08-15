@@ -4,7 +4,7 @@ Blender Experience Points: `+1XP`
 
 Bonus: `???`
 
-GitPitch: https://gitpitch.com/blackjuice/blenderXP
+GitPitch: https://gitpitch.com/blackjuice/blenderXP/repo/gitpitch
 
 ## Addons
 
